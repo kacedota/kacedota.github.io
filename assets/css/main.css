@@ -2586,6 +2586,14 @@
 					color: #953d75;
 				}
 
+				.wrapper.style4 .icon.major:before {
+					color: #FFFFF;
+				}
+
+				.wrapper.style4-alt .icon.major:before {
+					color: #FFFFF;
+				}
+
 /* Image */
 
 	.image {
